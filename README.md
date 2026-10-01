@@ -1,4 +1,10 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="ujjawal1935's GitHub profile" src="dark_mode.svg" />
+</picture>
+## Hi, I'm Ujjawal 👋
+2nd year CSE Student
 
 <!--
 **ujjawal1935/ujjawal1935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
